@@ -1,6 +1,6 @@
 # Oie, Sou Débora Paiva :alien:
 
-Curiosa da área Tech que mora na Cidade Maravilhosa. :beach_umbrella: Este GitHub tem o objetivo de registrar minha trajetória e estudos. :books:
+Curiosa da área Tech que mora na Cidade Maravilhosa. :beach_umbrella:
 
 [![Linkedin: DeboraPaiva](https://img.shields.io/badge/-DeboraPaiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborarubimpaiva/)](https://www.linkedin.com/in/deborarubimpaiva/)
 [![GitHub DeboraPaiva](https://img.shields.io/github/followers/DeboraPaiva?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdeborapaiva)
