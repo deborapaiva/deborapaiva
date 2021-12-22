@@ -5,6 +5,5 @@
 
 
 * :bank: I'm currently working at Grupo Assurê Corretora de Seguros
-* :books: Studying for transition to Devops Career
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deborapaiva&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
